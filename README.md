@@ -2,7 +2,8 @@
 
 This little script lets you plot the pose world landmarks from MediaPipe in neat 3D diagram.
 
-<img src="https://drive.google.com/uc?export=view&id=1AKUDIZdfPwNcMWZ1HQK-c7iBknf4Bls1" alt="example plot" width="300"/>
+<a href="https://drive.google.com/uc?export=view&id=1AKUDIZdfPwNcMWZ1HQK-c7iBknf4Bls1"> <img src="https://drive.google.com/uc?export=view&id=1AKUDIZdfPwNcMWZ1HQK-c7iBknf4Bls1" alt="example plot" width="300"/>
+</a>
 
 ## Usage
 
